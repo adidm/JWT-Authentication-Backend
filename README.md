@@ -1,2 +1,2 @@
 # JWT-Authentication-Backend
-multi-role app backend using Node JS, Express, MySQL
+JWT Authentication app backend using Node JS, Express, MySQL
